@@ -1,0 +1,108 @@
+Hey dear friend!
+I'm a QnA assistant who'll help you answer most of your queries. However, I can only deal with questions 
+beginning with What, Who, Where and When. To leave the program, please type Exit.
+
+=?> =>  Question: Where is Statue of Liberty situated?
+=?> =>  Correct Answer: Statue of liberty is situated on liberty island in new york harbor.
+=?> =>  My System Answer:  Statue of liberty is situated on liberty island in new york harbor.
+(Correct)
+
+=?> =>  Question: When did the British colonise India?
+=?> =>  Correct Answer: The british colonise india during the period of1857 to 1947.
+=?> =>  My System Answer: The british colonise india  during british raj, period of direct british rule over the indian subcontinent from 1858 until the independence of india and pakistan in 1947.
+(Correct)
+
+=?> =>  Question: What is stock trading? 
+=?> =>  Correct Answer: Stock trading involves buying and selling stocks frequently in an attempt to time the market.
+=?> =>  My System Answer: A stock trader is a person or company involved in trading equity securities and attempting to profit from the purchase and sale of those securities..
+(Correct)
+
+=?> =>  Question: What is the height of Eiffel Tower?
+=?> =>  Correct Answer: The height of Eiffel tower is 324 m upto tip.
+=?> =>  My System Answer: The height of Eiffel tower is 300 m, 324 m upto tip.
+(Correct)
+
+=?> =>  Question: Who is Harry Potter?
+=?> =>  Correct Answer: Harry Potter is a wizard, the only child of James and Lily Potter.
+=?> =>  My System Answer: Harry potter is a boy wizard created by british author j.k. rowling.
+(Correct)
+
+=?> =>  Question: Where is the Sun located?
+=?> =>  Correct Answer: The Sun is located in the Milky Way galaxy in a spiral arm called the Orion Spur that extends outward from the Sagittarius.
+=?> =>  My System Answer: Sun is located at the milky way galaxy in a spiral arm called the orion spur 
+(Correct)
+
+=?> =>  Question: Who defeated Germany in Second World War?
+=?> =>  Correct Answer: The allied countries defeated germany in second world war.
+=?> =>  My System Answer: The allies defeated germany in second world war.
+(Correct)
+
+=?> =>  Question: When did Apollo 11 land on the moon? 
+=?> =>  Correct Answer: Apollo 11 landed on the moon on 24 july 1969.
+=?> =>  My System Answer: Apollo 11 land on the moon on 24 july 1969 
+(Correct)
+
+=?> =>  Question: When was gunpowder invented?
+=?> =>  Correct Answer: Popularly listed as one of the "Four Great Inventions" of China, it was invented during the late Tang dynasty (9th century).
+=?> =>  My System Answer: Gunpowder was invented during late tang dynasty (9th century) 
+(Correct)
+
+=?> =>  Question: What is Wikipedia?
+=?> =>  Correct Answer: Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system.
+=?> =>  My System Answer: Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system.
+(Correct)
+
+=?> =>  Question: When did Cold War start?
+=?> =>  Correct Answer: Cold War started In March 2018.
+=?> =>  My System Answer: Cold war start  during the cold war was a period of geopolitical tension between the united states and the soviet union and their respective allies, the western bloc 
+and the eastern bloc, which began following world war ii
+(Incorrect)
+
+=?> =>  Question: Who is Nicholas Cage?
+=?> =>  Correct Answer: Nicholas Cage is an American actor and filmmaker. 
+=?> =>  My System Answer: Nicholas cage is nicholas kim coppola
+(Incorrect)
+
+=?> =>  Question: What is the opposite of good?    
+=?> =>  Correct Answer: The opposite of good is bad.   
+=?> =>  My System Answer: Sorry, I don't know the answer to that.
+(Incorrect)
+
+=?> =>  Question: Where does the American president live?
+=?> =>  Correct Answer:  The white house is the official residence and workplace of the president of the united states.
+=?> =>  My System Answer: Sorry, I don't know the answer to that.
+(Incorrect)
+
+=?> =>  Question: What does a dog eat?
+=?> =>  Correct Answer: Domesticated dogs are largely carnivores but will also eat plant-based foods
+=?> =>  My System Answer: Sorry, I don't know the answer to that.
+(Incorrect)
+
+=?> =>  Question: Where did the Cold War begin?
+=?> =>  Correct Answer: Cold War begin in the United States, the Soviet Union.
+=?> =>  My System Answer: The cold war begin after the surrender of nazi germany in 1945 
+(Incorrect)
+
+=?> =>  Question: Where is Munich, Germany?
+=?> =>  Correct Answer: Munich is a Landkreis in Bavaria, Germany. It borders the districts of Dachau, Freising and Ebersberg.
+=?> =>  My System Answer: Munich germany is at munich germany
+(Incorrect)
+
+=?> =>  Question: Where is Hogwarts?
+=?> =>  Correct Answer: Hogwarts is located in the Highlands of Scotland.
+=?> =>  My System Answer: Hogwarts is located in Scotland.
+(Incorrect)
+
+=?> =>  Question: Where do i store pickles? 
+=?> =>  Correct Answer: Store processed pickles in a dark, cool, dry place. For best quality and nutritive value, preserve no more than your family can consume in 12 months.
+=?> =>  My System Answer: I store pickles at banaraswala murraba & pickles 
+(Incorrect)
+
+=?> =>  Question: What are the remedies to  snake bite?
+=?> =>  Correct Answer: Move the person beyond striking distance of the snake. Have the person lie down with wound below the heart.
+=?> =>  My System Answer: Sorry, I don't know the answer to that.
+(Incorrect)
+
+=?> exit
+Thank you!  Goodbye.
+
